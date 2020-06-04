@@ -1,0 +1,16 @@
+{
+  "name": "node-stream",
+  "version": "1.0.0",
+  "description": "linux\r 我们以后的代码上线了，所以都是在一台Linux 服务器上面运行的",
+  "main": "copy.js",
+  "dependencies": {
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
