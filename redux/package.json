@@ -1,0 +1,15 @@
+{
+  "name": "redux",
+  "version": "1.0.0",
+  "description": "```js\r let isLogin = false;\r // login-component组件之中\r isLogin = true;\r // login-component\r isLogin = false;\r // 支付",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "redux": "^4.0.5"
+  }
+}
